@@ -1,4 +1,6 @@
 rspec_study
 ===========
 
-rspec study my file
+rspec study file
+
+2-3 : Hello Rspec, portray feature
